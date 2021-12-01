@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DanielYu0864/DanielYu-HomeWork-12-Employee-Management-System.git"
+    "url": "git+git@github.com:KS1/HW12-EmployeeManagementSystem.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DanielYu0864/DanielYu-HomeWork-12-Employee-Management-System/issues"
+    "url": "https://github.com/KS1/HW12-EmployeeManagementSystem/issues"
   },
-  "homepage": "https://github.com/DanielYu0864/DanielYu-HomeWork-12-Employee-Management-System#readme",
+  "homepage": "https://github.com/KS1/HW12-EmployeeManagementSystem",
   "dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^7.3.3",
